@@ -31,6 +31,7 @@ mpd
 ncmpcpp
 zip
 unzip
+lxappearance
 ```
 
 aur
