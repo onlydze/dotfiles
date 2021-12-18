@@ -1,0 +1,3 @@
+[submodule ".config/zsh/ohmyzsh"]
+	path = .config/zsh/ohmyzsh
+	url = git@github.com:ohmyzsh/ohmyzsh.git
