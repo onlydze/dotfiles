@@ -5,6 +5,7 @@ pgrep -x mpd > /dev/null || mpd &
 
 picom --experimental-backends &
 ~/.config/polybar/launch.sh &
+~/.fehbg &
 
 bspc monitor -d I II III IV V
 
